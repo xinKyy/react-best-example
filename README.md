@@ -1,6 +1,6 @@
 
 
-# anystarr Tiktok 网红达人
+# react + tailwind + vite C端最佳实践
 
 ````
 yarn
